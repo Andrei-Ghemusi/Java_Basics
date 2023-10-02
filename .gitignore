@@ -28,7 +28,7 @@ hs_err_pid*
 replay_pid*
 
 # Custom entries
-Java_Basics.iml
+Java_Basics
 
 # End of https://www.toptal.com/developers/gitignore/api/java
 
