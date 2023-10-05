@@ -1,5 +1,6 @@
 package OOP;
 
+import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
@@ -17,7 +18,7 @@ public class TodoList {
     //○ If they answer no - goodbye
     //○ If they answer yes - ask for task details and save the name and details to the dictionary
 
-    private Map<String, String> todo;
+    private Map<String, String> todo = new HashMap<>();
     private Scanner scanner = new Scanner(System.in);
 
     public void addTask(String name, String description) {

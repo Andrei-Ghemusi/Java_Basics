@@ -57,7 +57,7 @@ public class Car {
     }
 
     public void paintCar(String newColor) {
-        if (availableColors.contains(newColor)) {
+        if (availableColors.contains(newColor.toLowerCase())) {
             this.color = newColor;
         } else {
             System.out.println("Error: Invalid color option.");

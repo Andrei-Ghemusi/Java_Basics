@@ -42,9 +42,9 @@ public class Invoice {
     public void generateInvoice() {
         System.out.println("Invoice Details:");
         System.out.println("------------------------------------------------------");
-        System.out.printf("| Series: %-5s | Number: %-5d |%n", SERIES, this.number);
-        System.out.printf("| Product: %-20s | Quantity: %-5d |%n", this.product_name, this.quantity);
-        System.out.printf("| Price per Unit: %-10.2s | Total Amount: %-10.2f |%n", this.price_per_unit, calculateTotalAmount());
+        System.out.printf("| Series: %-11s | Number: %-12d |%n", SERIES, this.number);
+        System.out.printf("| Product: %-10s | Quantity: %-10d |%n", this.product_name, this.quantity);
+        System.out.printf("| Price per Unit: %-3s | Total Amount: %-3.2f |%n", this.price_per_unit, calculateTotalAmount());
         System.out.println("------------------------------------------------------");
     }
 
