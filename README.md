@@ -8,9 +8,9 @@ Welcome to the Java Mastery Challenges repository, a meticulously curated collec
 - Object-Oriented Programming (OOP) Principles: Explore the nuances of OOP through exercises that cover class design, inheritance, polymorphism, encapsulation, and abstraction. These exercises showcase my efforts to apply theoretical concepts to real-world Java development scenarios.
 
 ## Navigation Guide:
-🚀 Start with the foundational Java exercises to witness the progression of my Java programming skills.
-💡 Take on the intermediate challenges for insights into strategic problem-solving and algorithmic thinking.
-🏗️ Dive into the OOP section to gain a deeper understanding of sophisticated programming paradigms in the context of Java.
+- 🚀 Start with the foundational Java exercises to witness the progression of my Java programming skills.
+- 💡 Take on the intermediate challenges for insights into strategic problem-solving and algorithmic thinking.
+- 🏗️ Dive into the OOP section to gain a deeper understanding of sophisticated programming paradigms in the context of Java.
 
 ## Personal Development Log:
 Consider this repository a chronicle of my journey towards Java mastery. The exercises encapsulate the milestones, challenges, and triumphs experienced in my pursuit of excellence in software development with Java.
